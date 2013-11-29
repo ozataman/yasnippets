@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : apply-full
+# --
+<apply template="${1:template}">
+  $0
+</apply>

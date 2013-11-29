@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : apply-full
+# --
+<bind tag="${1:ref}">
+  $0
+</bind>
